@@ -1,6 +1,3 @@
-Important: Day 2 is included here since the answer to the problem is the same but along a much higher number of days. The program will run out of memory with that ammount of days, but i couldnt be bothered enough to care for program optimization, so i basically ignored the second half. However, i'd say under some optimization rework it would work properly.
-
-
 --- Day 6: Lanternfish ---
 The sea floor is getting steeper. Maybe the sleigh keys got carried this way?
 
